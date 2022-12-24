@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cheifaikram&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 # 💫 About Me:
 🌱 I’m currently learning Frontend development<br>💬 Ask me about web development and AI<br>
