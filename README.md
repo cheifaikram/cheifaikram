@@ -32,10 +32,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cheifaikram&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)username=cheifaikram&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cheifaikram&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cheifaikram&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
