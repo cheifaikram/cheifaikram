@@ -34,4 +34,4 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=cheifaikram&theme=dark&hide_border=falsee&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cheifaikram&theme=dracula&hide_border=falsee&include_all_commits=false&count_private=false&layout=compact)
