@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Frontend development.<br>
+🌱 I’m currently learning Web development.<br>
 💬 Ask me about web development and AI.<br>
 
 
@@ -24,7 +24,8 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cheifaikram&theme=dark&hide_border=falsee&include_all_commits=false&count_private=false&layout=compact)
